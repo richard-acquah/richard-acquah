@@ -26,7 +26,7 @@ AWS Cloud Solution Architect
 
 <h2>👨‍💻 DOCKER AND KUBERNETES PROJECTS:</h2>
 
-- <a href="https://github.com/richard-acquah/AWS_Terraform-Reddit-sentiment-analyzer"><b>AWS_Terraform-Reddit-sentiment-analyzer</b>
+- <a href="https://github.com/richard-acquah/Container-deployment-with-docker"><b>Container-deployment-with-docker</b>
 
 
 

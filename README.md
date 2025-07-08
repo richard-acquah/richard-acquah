@@ -1,15 +1,42 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richard Acquah
 ======================================================================================================================================
 
-cybersecurity Analyst
----------------------
+
+AWS Cloud Solution Architect
+----------------------------
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [richardacquah919@gmail.com](mailto:richardacquah919@gmail.com)
 
 ##
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 AMAZON WEB SERVICES PROJECTS:</h2>
+
+- <a href="https://github.com/richard-acquah/First-terraform-script-deployment-on-AWS"><b>Terraform AWS EC2 Instance Setup</b>
+
+- <a href="https://github.com/richard-acquah/transalation_pipeline"><b>Serverless language translation Pipeline – AWS Terraform Deployment</b>
+
+- <a href="https://github.com/richard-acquah/AWS_serverless_image-processing-pipeline"><b>AWS_serverless_image-processing-pipeline</b>
+
+- <a href="https://github.com/richard-acquah/AWS-resources-provisioning-with-terraform-terraform"><b>AWS-resources-provisioning-with-terraform-terraform</b>
+
+- <a href="https://github.com/richard-acquah/AWS_Terraform-Reddit-sentiment-analyzer"><b>AWS_Terraform-Reddit-sentiment-analyzer</b>
+
+##
+
+<h2>👨‍💻 DOCKER AND KUBERNETES PROJECTS:</h2>
+
+- <a href="https://github.com/richard-acquah/AWS_Terraform-Reddit-sentiment-analyzer"><b>AWS_Terraform-Reddit-sentiment-analyzer</b>
+
+
+
+
+
+
+
+##
+
+<h2>👨‍💻 CYBERSECURITY PROJECTS:</h2>
 
 - <a href="https://github.com/richard-acquah/Malware-Analysis-Lab"><b>Static and Dynamic Malware Analysis</b>
 

@@ -26,7 +26,7 @@ AWS Cloud Solution Architect and Cybersecurity Enthusiast
 
 <h2>👨‍💻 DOCKER AND KUBERNETES PROJECTS:</h2>
 
-- <a href="https://github.com/richard-acquah/Container-deployment-with-docker"><b>Creating-docker_container-image</b>
+- <a href="https://github.com/richard-acquah/Creating-docker_container-image"><b>Creating-docker_container-image</b>
 
 
 
